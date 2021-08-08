@@ -9,7 +9,7 @@ This is how I see implementation of scalable and maintainable architecture for i
 
 ![Architecture Overview](https://github.com/atereshkov/blob_storage/blob/7404bde3c0a9a7de6e6e3185910e05baa8a73a51/clean-architecture-skeleton/clean-architecture-overview.png?raw=true)
 
-### Features
+## Features
 
 * Designed with scalability in mind. Skeleton project can be used as a reference for building apps
 * Redux-like centralized states used as the single source of truth
@@ -18,13 +18,13 @@ This is how I see implementation of scalable and maintainable architecture for i
 * Navigation separated from View
 * Covered with Unit & UI tests
 
-### Layers
+## Layers
 
-#### Presentation Layer
-#### Business Layer
-#### Data Access Layer
+### Presentation Layer
+### Business Layer
+### Data Access Layer
 
-### Third-party libs used
+## Third-party libraries
 
 Skeleton project uses following third party libraries:
 * Swinject
@@ -33,20 +33,20 @@ Skeleton project uses following third party libraries:
 * ...
 * ...
 
-### Usage
+## Usage
 
-#### Requirementss
+### Requirementss
 
 * Swift 5.1
 * iOS 13.0
 
-#### Installation
+### Installation
 
 1. Download repository
 2. Run 'pod install'
 3. Open **clean-architecture-skeleton.xcworkspace**
 
-### Why I made it?
+## Why I made it?
 
 1. TBD
 2. TBD
@@ -66,7 +66,7 @@ I'm really happy to accept contributions from the community to improve the code!
 4. Push to the branch (git push origin feature/fooBar)
 5. Create a new [Pull Request](https://github.com/atereshkov/clean-architecture-skeleton/pulls)
 
-### Maintainers
+## Maintainers
 
 * Alexander Tereshkov | [Github](https://github.com/atereshkov) | [Contact me](https://tereshkov.pw/)
 
