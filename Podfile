@@ -7,6 +7,8 @@ target 'clean-architecture-skeleton' do
 
   # Pods for clean-architecture-skeleton
 
+  pod 'Swinject', '~> 2.7.1'
+
   target 'clean-architecture-skeletonTests' do
     inherit! :search_paths
     # Pods for testing

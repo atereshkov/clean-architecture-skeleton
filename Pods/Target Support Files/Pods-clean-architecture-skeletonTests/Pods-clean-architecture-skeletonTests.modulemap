@@ -1,0 +1,6 @@
+framework module Pods_clean_architecture_skeletonTests {
+  umbrella header "Pods-clean-architecture-skeletonTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
