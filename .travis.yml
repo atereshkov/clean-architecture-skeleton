@@ -1,13 +1,10 @@
 language: swift
 os: osx
-osx_image: xcode11.3
-xcode_project: clean-architecture-skeleton.xcodeproj
+osx_image: xcode12.5
+xcode_workspace: clean-architecture-skeleton.xcworkspace
 xcode_scheme: clean-architecture-skeleton
 xcode_destination: platform=iOS Simulator,OS=13.3,name=iPhone 11
-
-branches:
-  only:
-  - main
+podfile: Podfile
 
 after_success:
   - bash <(curl -s https://codecov.io/bash) -J 'clean-architecture-skeleton'
