@@ -35,7 +35,7 @@ Skeleton project uses following third party libraries:
 
 ## Usage
 
-### Requirementss
+### Requirements
 
 * Swift 5.1
 * iOS 13.0
@@ -53,8 +53,6 @@ Skeleton project uses following third party libraries:
 3. TBD
 4. TBD
 5. TBD
-
----
 
 ## Contributing
 
